@@ -1,0 +1,6 @@
+{
+  "name": "CyberSafe",
+  "description": "Personal Cybersecurity Toolkit - Think Secure. Stay Protected. Analyze passwords, detect suspicious URLs, calculate file hashes, inspect file metadata, take security quizzes, and track personal security checklists offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
